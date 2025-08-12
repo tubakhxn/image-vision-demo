@@ -1,0 +1,6 @@
+carla
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
